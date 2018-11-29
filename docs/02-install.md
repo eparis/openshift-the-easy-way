@@ -43,9 +43,6 @@ If you want to avoid the wizard, its useful to setup a set of env vars for a par
 
 ### Amazon Web Services
 
-**friction**
-1. state minimum limits for aws account to run successful install
-
 #### Linux
 
 ```
@@ -76,4 +73,4 @@ export OPENSHIFT_INSTALL_AWS_REGION=us-east1
 export OPENSHIFT_INSTALL_BASE_DOMAIN=tt.testing
 ./openshift-install-linux-amd64 create cluster
 ```
-Next: [Exploring the Cluster](02-explore.md)
+Next: [Exploring the Cluster](03-explore.md)

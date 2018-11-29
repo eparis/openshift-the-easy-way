@@ -14,7 +14,7 @@ The target audience for this tutorial is someone exploring a production OpenShif
 
 ## Cluster Details
 
-OpenShift The Hard Way guids you through creating a highly available OpenShift cluster.
+OpenShift The Easy Way guides you through creating a highly available OpenShift cluster.
 
 ## Labs
 

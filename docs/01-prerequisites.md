@@ -15,11 +15,4 @@ chmod u+x ./openshift-install-linux-amd64
 export OPENSHIFT_INSTALL_PULL_SECRET_PATH=~/Downloads/pull-secret
 ```
 
-**User Friction**
-1. above is not obvious and should be on `try.openshift.com`
-1. having a stable download url for latest would be nice up to release
-1. the pull secret that a user can copy to clipboard is not pastable into install (contains new-lines)
-1. the pull secret is rendered in install when using wizard (should be ***)
-1. no place to download client tools but they are needed after install
-
 Next: [Installing the Cluster](02-install.md)

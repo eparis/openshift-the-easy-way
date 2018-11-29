@@ -1,7 +1,7 @@
 # OpenShift The Easy Way
 
 This tutorial walks you through setting up OpenShift the easy way. This guide is
-for people looking for a fully auotomated command to bring up a self-managed OpenShift cluster
+for people looking for a fully automated command to bring up a self-managed OpenShift cluster
 in a target cloud platform.
 
 OpenShift The Easy Way is optimized for learning how a self-managed OpenShift cluster functions.
@@ -18,7 +18,7 @@ OpenShift The Easy Way guides you through creating a highly available OpenShift 
 
 ## Labs
 
-This tutorial assumes you have access to a cloud platform.
+This tutorial assumes you have familiarity with a cloud platform.
 
 * [Prerequisites](docs/01-prerequisites.md)
 * [Installing the Cluster](docs/02-install.md)

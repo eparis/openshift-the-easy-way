@@ -14,5 +14,6 @@ Depending on your interest, explore the following:
 - [Managing Compute](compute/01-managing-compute.md)
 - [Accessing Nodes](nodes/01-operating-system.md)
 - [Monitoring](monitoring/01-cluster-monitoring.md)
+- [Developer Experience](developer-experience/01-developer-experience.md)
 
 Next: [Cleanup the Cluster](04-cleanup.md)

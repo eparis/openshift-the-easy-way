@@ -11,7 +11,8 @@ Depending on your interest, explore the following:
 - [Using the CLI](cli/01-accessing.md)
 - [Access the console](console/01-accessing.md)
 - [Understanding operators](operators/01-understanding-operators.md)
-- [Managing Machines](machines/01-managing-machines.md)
+- [Managing Compute](compute/01-managing-compute.md)
+- [Accessing Nodes](nodes/01-operating-system.md)
 - [Monitoring](monitoring/01-cluster-monitoring.md)
 
 Next: [Cleanup the Cluster](04-cleanup.md)
